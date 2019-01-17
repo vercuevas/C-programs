@@ -20,7 +20,7 @@ input file with up to 100 character string item per line and not to exceed 10000
   enter the following commands:
   
   	$cmake -H. -Bbuild
-	$ cmake --build build -- -j3
+	$cmake --build build -- -j3
 # Run Program
   producerConsumer takes three command line arguments:
   argument 1 is the input file name with the items to be sorted
