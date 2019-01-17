@@ -14,11 +14,11 @@ input file with up to 100 character string item per line and not to exceed 10000
   The CMakeLists.txt creates a directory named, bin, where the executable is located. To make the
   executable file:
   make a directory for the project in an open terminal in Ubuntu 18.04 and enter commands:
-  	$mkdir ProducerConsumerProject
+  	$ mkdir ProducerConsumerProject
   put the producerconsumer.cpp program an CMakeLists.txt in the new directory
   enter the following commands:
-  	$cmake -H. -Bbuild
-	$cmake --build build -- -j3
+  	$ cmake -H. -Bbuild
+	$ cmake --build build -- -j3
 # Run Program
   producerConsumer takes three command line arguments:
   argument 1 is the input file name with the items to be sorted
