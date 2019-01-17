@@ -7,7 +7,7 @@ and print each string of characters to an output file separating each character 
 
 # Requirement software
 
-Ubuntu 18.04
+Ubuntu 18.04,
 input file with up to 100 character string item per line and not to exceed 10000 lines of items.
 
 # Installation
