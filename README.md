@@ -34,12 +34,7 @@ input file with up to 100 character string item per line and not to exceed 10000
   The Sortmethod is 't' or 'm'
 # Tree Sort
   Tree sort has an average time complexity of O(n log n). Worst case senario is O(n^2),
-  which only occurs in a list that is already sorted. I chose this because of the best case
-  senario will be a likley situation if random numbers are in an unsorted list of
-  strings. 
+  which only occurs in a list that is already sorted. 
 
 # Merge Sort
-  Merge Sort has an average, best and worst time complexity of O(n log n). I chose this Sort 
-  method because this is the only sorting algorithm that has the same time complexity in all
-  cases.The timing of this algorithm is the most predictable in comparison to other sorting
-  algorithms.The compromise for this is in memory, which is O(n).
+  Merge Sort has an average, best and worst time complexity of O(n log n).The compromise for this is in memory, which is O(n).
